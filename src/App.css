@@ -1,0 +1,14 @@
+.app{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	height: 100vh;
+}
+.app__container{
+  margin: 20px;
+  display: flex;
+	align-items: center;
+  width: 500px;
+	justify-content: space-evenly;
+}
